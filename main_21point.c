@@ -3,8 +3,6 @@
 #include <time.h>
 #include <string.h>
 #include <conio.h>
-// #include "mainstruct.h"
-// #include "genRandSeq.h"
 
 
 unsigned int* genRandSeq(unsigned int seqlen);
