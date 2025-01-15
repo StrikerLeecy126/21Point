@@ -6,6 +6,8 @@
 ### How to play
 #### Build the code with C compiler, just follow the message on the debug window to play the game.
 
+![2025-01-15 21-43-27_1_compressed](https://github.com/user-attachments/assets/1ac9a53d-1ccb-4614-b821-aa14c4257949)
+
 Two-player game drawing cards alternatingly. Two players shares the same deck which has cards valued 1 to 11. The one whose deck is closest to 21 but not beyond wins.
 
 First two players will be given a face-down card, which is known only by themselves. The following cards are visible for both players. Player hit "Y" key to draw a card, one can decide whether to draw a card this turn. If both player decide not to draw a card, all the deck is empty, then it's time for checking results.
